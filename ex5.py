@@ -76,7 +76,7 @@ print("Average time per task for HeapPriorityQueue:", heap_time / len(tasks))
 
 
 # Question #4:
-# The HeapPriorityQueue implementation is expected to be faster than the ListPriorityQueue implementation
+# The HeapPriorityQueue implementation is faster than the ListPriorityQueue implementation
 # because it is based on a heap, which contains a better time complexity for the enqueue and dequeue operations compared to
 # that of the ListPriorityQueue, which uses a linked list-based approach.
 # Furthermore the HeapPriorityQueue implementation proves to be more efficient with regards To maintaining priority queues,
